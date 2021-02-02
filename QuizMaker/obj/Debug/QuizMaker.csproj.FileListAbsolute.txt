@@ -14,3 +14,5 @@ C:\Users\AiXen\Desktop\QuizMaker\QuizMaker\bin\Debug\EntityFramework.xml
 C:\Users\AiXen\Desktop\QuizMaker\QuizMaker\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\AiXen\Desktop\QuizMaker\QuizMaker\obj\Debug\QuizMaker.csproj.CopyComplete
 C:\Users\AiXen\Desktop\QuizMaker\QuizMaker\obj\Debug\QuizMaker.Results.resources
+C:\Users\AiXen\Desktop\QuizMaker\QuizMaker\bin\Debug\Database\DB_Server.mdf
+C:\Users\AiXen\Desktop\QuizMaker\QuizMaker\bin\Debug\Database\DB_Server_log.ldf

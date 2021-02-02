@@ -8,6 +8,7 @@ namespace QuizMaker
 {
     public class Database
     {
-        public static readonly string path = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\AiXen\Desktop\QuizMaker\Database\DB_Server.mdf;Integrated Security=True;Connect Timeout=30";
+        string xd = "~/Database/DB_Server.mdf";
+        public static readonly string path = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename="+AppDomain.CurrentDomain.BaseDirectory+"Database\\DB_server.mdf"+" ;Integrated Security=True;Connect Timeout=30";
     }
 }
