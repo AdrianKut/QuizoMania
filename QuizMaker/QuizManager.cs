@@ -48,7 +48,7 @@ namespace QuizMaker
         }
 
 
-        readonly private SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\AiXen\Documents\DB_Server.mdf;Integrated Security=True;Connect Timeout=30");
+        readonly private SqlConnection con = new SqlConnection(Database.path);
         readonly private Random random = new Random();
 
         readonly private List<int> listIDofLeftQuestions = new List<int>();
