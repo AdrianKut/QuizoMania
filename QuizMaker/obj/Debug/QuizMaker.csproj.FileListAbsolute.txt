@@ -1,0 +1,16 @@
+C:\Users\AiXen\Desktop\QuizMaker\QuizMaker\bin\Debug\QuizMaker.exe.config
+C:\Users\AiXen\Desktop\QuizMaker\QuizMaker\bin\Debug\QuizMaker.exe
+C:\Users\AiXen\Desktop\QuizMaker\QuizMaker\bin\Debug\QuizMaker.pdb
+C:\Users\AiXen\Desktop\QuizMaker\QuizMaker\obj\Debug\QuizMaker.csprojAssemblyReference.cache
+C:\Users\AiXen\Desktop\QuizMaker\QuizMaker\obj\Debug\QuizMaker.Form1.resources
+C:\Users\AiXen\Desktop\QuizMaker\QuizMaker\obj\Debug\QuizMaker.Properties.Resources.resources
+C:\Users\AiXen\Desktop\QuizMaker\QuizMaker\obj\Debug\QuizMaker.csproj.GenerateResource.cache
+C:\Users\AiXen\Desktop\QuizMaker\QuizMaker\obj\Debug\QuizMaker.csproj.CoreCompileInputs.cache
+C:\Users\AiXen\Desktop\QuizMaker\QuizMaker\obj\Debug\QuizMaker.exe
+C:\Users\AiXen\Desktop\QuizMaker\QuizMaker\obj\Debug\QuizMaker.pdb
+C:\Users\AiXen\Desktop\QuizMaker\QuizMaker\bin\Debug\EntityFramework.dll
+C:\Users\AiXen\Desktop\QuizMaker\QuizMaker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AiXen\Desktop\QuizMaker\QuizMaker\bin\Debug\EntityFramework.xml
+C:\Users\AiXen\Desktop\QuizMaker\QuizMaker\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AiXen\Desktop\QuizMaker\QuizMaker\obj\Debug\QuizMaker.csproj.CopyComplete
+C:\Users\AiXen\Desktop\QuizMaker\QuizMaker\obj\Debug\QuizMaker.Results.resources
